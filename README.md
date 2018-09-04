@@ -1,2 +1,2 @@
-# Fund-WebDev
+# classintro
 Fundamentals of Web Development
